@@ -1,0 +1,6 @@
+interface:
+  display_name: "旅行规划 CN"
+  short_description: "访谈核实并制定可执行旅行计划"
+  default_prompt: "使用 $trip-planning-cn 设计安全、舒适、基于事实核查的旅行。"
+policy:
+  allow_implicit_invocation: true
