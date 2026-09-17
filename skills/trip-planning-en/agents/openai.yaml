@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trip Planning EN"
+  short_description: "Verified, interview-first travel planning"
+  default_prompt: "Use $trip-planning-en to design a safe, comfortable, evidence-based trip."
+policy:
+  allow_implicit_invocation: true
